@@ -110,18 +110,18 @@ fn main() {
             let weekday = match now.weekday().number_from_monday() {
                 1 => "Lunes",
                 2 => "Martes", 
-                3 => "Miércoles",
-                4 => "Jueves",
-                5 => "Viernes",
-                6 => "Sábado",
-                7 => "Domingo",
-                _ => "Desconocido",
+                3 => "Wednesday",
+                4 => "Thursday",
+                5 => "Friday",
+                6 => "Saturday",
+                7 => "Sunday",
+                _ => "Unknown",
             };
             println!("\n{}{}{}", config.color, weekday, RESET);
         }
         
         // Mostrar zona horaria
-        println!("\n{}🌍 Zona: {}{}", config.color, now.format("%Z"), RESET);
+        println!("\n{}Zona: {}{}", config.color, now.format("%Z"), RESET);
         
         thread::sleep(Duration::from_secs(1));
     }
@@ -198,5 +198,5 @@ fn display_digital_time(time_str: &str, color: &str) {
 }
 
 fn display_minimal_time(time_str: &str, color: &str) {
-    println!("{}⏰ {}{}", color, time_str, RESET);
+    println!("{}{}{}", color, time_str, RESET);
 }
