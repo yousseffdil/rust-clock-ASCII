@@ -194,7 +194,7 @@ fn display_time_with_blocks(time_str: &str, color: &str) {
 fn display_digital_time(time_str: &str, color: &str) {
     println!("{}┌─────────────────────┐", color);
     println!("│     {}   │", time_str);
-    println!("└─────────────────────┘{}", RESET);
+    println!("└───────────────────────┘{}", RESET);
 }
 
 fn display_minimal_time(time_str: &str, color: &str) {
