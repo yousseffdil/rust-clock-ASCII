@@ -22,7 +22,7 @@ A modern and customizable digital clock for the terminal, written in Rust. Displ
 ### Building
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ascii-clock.git
+git clone https://github.com/yousseffdil/ascii-clock.git
 cd ascii-clock
 
 # Build the project
@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [@your_username](https://github.com/your-username)
+Your Name - [@your_username](https://github.com/yousseffdil)
 
 ## 🙏 Acknowledgments
 
@@ -223,10 +223,10 @@ Your Name - [@your_username](https://github.com/your-username)
 
 ## 📊 Project stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/ascii-clock?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/ascii-clock?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/ascii-clock)
-![GitHub license](https://img.shields.io/github/license/your-username/ascii-clock)
+![GitHub stars](https://img.shields.io/github/stars/yousseffdil/ascii-clock?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yousseffdil/ascii-clock?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yousseffdil/ascii-clock)
+![GitHub license](https://img.shields.io/github/license/yousseffdil/ascii-clock)
 
 ---
 
@@ -234,4 +234,4 @@ Your Name - [@your_username](https://github.com/your-username)
 
 ## 🐛 Bug reports
 
-Found a bug? Report it on [GitHub Issues](https://github.com/your-username/ascii-clock/issues)!
+Found a bug? Report it on [GitHub Issues](https://github.com/yousseffdil/ascii-clock/issues)!
