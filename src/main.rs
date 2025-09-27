@@ -193,7 +193,7 @@ fn display_time_with_blocks(time_str: &str, color: &str) {
 
 fn display_digital_time(time_str: &str, color: &str) {
     println!("{}┌─────────────────────┐", color);
-    println!("│  ⏰  {}   │", time_str);
+    println!("│     {}   │", time_str);
     println!("└─────────────────────┘{}", RESET);
 }
 
