@@ -136,8 +136,8 @@ cargo run -- --digital -d --yellow
   █   █   █ ●   █   █ ● █ █ █
 ███   █   █   ███ ███   ███ █
 
-🗓️  Saturday
-🌍 Timezone: CEST
+Saturday
+Timezone: CEST
 ```
 
 ### Digital style with color
