@@ -223,11 +223,10 @@ Your Name - [@your_username](https://github.com/yousseffdil)
 
 ## 📊 Project stats
 
-![GitHub stars](https://img.shields.io/github/stars/yousseffdil/ascii-clock?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yousseffdil/ascii-clock?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yousseffdil/ascii-clock)
-![GitHub license](https://img.shields.io/github/license/yousseffdil/ascii-clock)
-
+![GitHub stars](https://img.shields.io/github/stars/yousseffdil/rust-clock-ASCII?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yousseffdil/rust-clock-ASCII?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yousseffdil/rust-clock-ASCII)
+![GitHub license](https://img.shields.io/github/license/yousseffdil/rust-clock-ASCII)
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
